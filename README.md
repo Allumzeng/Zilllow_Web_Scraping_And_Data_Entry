@@ -12,6 +12,7 @@ Step 1: Set Up Your Google Form
       c. Property Link
   - Get the Form Link:
       Click on the "Send" button and copy the link to the form. This link will be used to programmatically submit data.
+    
 Step 2: Scrape Data from Zillow-Clone Website
     1. Visit the Zillow-Clone Website:
       - Go to Zillow-Clone and examine the structure of the web page to identify the data elements.
